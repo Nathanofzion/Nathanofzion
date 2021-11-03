@@ -1,7 +1,7 @@
-"author": "Nathan OfZion",
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
+	"author": "Nathan OfZion",
+        "dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
